@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;CVE+Hunter;Penetration+Tester;Threat+Intelligence+Analyst;Red+Team+Operator" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Beksult0n&theme=matrix&no-frame=true&row=1&column=7" />
 
 </div>
 
