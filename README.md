@@ -78,10 +78,6 @@ Research Areas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beksult0n&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beksult0n&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beksult0n&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
