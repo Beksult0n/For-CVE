@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;CVE+Hunter;Penetration+Tester;Threat+Intelligence+Analyst;Red+Team+Operator" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:001a1a&height=200&section=header&text=CVE%20Research&fontColor=00ff99&fontSize=55&animation=fadeIn&fontAlignY=35"/>
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=Beksult0n&theme=matrix&no-frame=true&row=1&column=7" />
 
 </div>
